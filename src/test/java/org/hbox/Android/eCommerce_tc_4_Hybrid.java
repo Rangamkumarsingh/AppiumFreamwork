@@ -41,9 +41,9 @@ public class eCommerce_tc_4_Hybrid extends AndroidBaseTest{
 		cartPage.cartCheckbox();
 		cartPage.visitWebsite();
 			
-				Set<String> contexts = driver.getContextHandles();
-				for(String contextname : contexts) {
-					System.out.println(contextname);
+				Set<String> contexts1 = driver.getContextHandles();
+				for(String contextname1 : contexts1) {
+					System.out.println(contextname1);
 				}
 				
 				driver.context("WEBVIEW_com.androidsample.generalstore");

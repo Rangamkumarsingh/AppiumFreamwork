@@ -64,16 +64,6 @@
     <artifactId>java-client</artifactId>
     <version>9.2.2</version>
 </dependency>
-<dependency>
-   		<groupId>Apiproject</groupId>
-   		<artifactId>Apiproject</artifactId>
-   		<version>0.0.1-SNAPSHOT</version>
-   	</dependency>
-  	<dependency>
-  		<groupId>HboxMobileApplication</groupId>
-  		<artifactId>AppiumFreamwork1</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   	<dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
